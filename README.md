@@ -72,3 +72,6 @@ npm install
 npm update
 node .
 ```
+```
+* #### APLICACIÓN RECOMENDADA PARA [`DESCOMPRIMIR`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
+* #### APLICACIÓN RECOMENDADA PARA EDITAR [`CLOSED SOURCE`](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
