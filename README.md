@@ -40,7 +40,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GataNina-Li/GataBot-MD&branch=master&name=gatabot-md)
 
 ------------------
-### ACTIVAR POR TERMUX - GITHUB <a href="https://github.com/GataNina-Li/GataBot-MD"> <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" height="40px"> </a>
+### ACTIVAR POR TERMUX - GITHUB <a href="https://github.com/jdiaz1423/BloodSource-DCU-FinalProject"> <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" height="40px"> </a>
 #### ⬇️ AGREGAR CADA COMANDO POR TEXMUX (Opción 1):
 > ❇️ PUEDE INSTALAR DIRECTAMENTE DESDE TERMUX USANDO ESTE REPOSITORIO!!
 ```bash
@@ -72,8 +72,13 @@ npm install
 npm update
 node .
 ```
-----    
-###  AJUSTE <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
+-------------------
+## ⚠️ PARA VER VIDEO EN YOUTUBE
+[![blog](https://img.shields.io/badge/eltomas809-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://youtu.be/X5e8SP4D_Ko)   
+
+
+###  AJUSTES <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
 - CLONAR EL REPOSITORIO [`Aquí`](https://github.com/Jdiaz1423/BloodSource/fork)
 - SELECCIONAR IDIOMA [`Aquí`](https://github.com/Jdiaz1423/BloodSource/fork) 
 ----  
