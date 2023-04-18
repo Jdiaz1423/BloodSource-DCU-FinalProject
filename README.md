@@ -6,14 +6,16 @@
 
 </a>
 
-### 💖 ```DONAR``` [`Aquí`]([https://paypal.me/OficialGD](https://paypal.me/JeremyTomas14?country.x=DO&locale.x=es_XC))
+### 💖 ```DONAR``` [`Aquí`](https://paypal.me/jeremytomas14)
 -----
-> ✅ ESTE REPOSITORIO DE GATABOT ES COMPATIBLE CON:
+> ✅ ESTE REPOSITORIO DE Blood Source ES COMPATIBLE CON:
 * TERMUX
 * BOXMINE
 * REPLIT
 * KOYEB
 * HEROKU
+* XCODE (Local)
+* IOS (Con Xcode)
 -----
 ### 🟣 ACTIVAR EN HEROKU 
 #### ☂️ PARA USUARIOS DE HEROKU 
