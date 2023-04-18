@@ -72,6 +72,19 @@ npm install
 npm update
 node .
 ```
-```
-* #### APLICACIÓN RECOMENDADA PARA [`DESCOMPRIMIR`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
-* #### APLICACIÓN RECOMENDADA PARA EDITAR [`CLOSED SOURCE`](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
+----    
+###  AJUSTE <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
+- CLONAR EL REPOSITORIO [`Aquí`](https://github.com/Jdiaz1423/BloodSource/fork)
+- SELECCIONAR IDIOMA [`Aquí`](https://github.com/Jdiaz1423/BloodSource/fork) 
+----  
+
+### 🌟 CREADOR 
+ 
+[![Eltomas809](https://github.com/jdiaz1423.png?size=100)](https://github.com/jdiaz1423) 
+
+### 🌟 DESARROLLADORES
+
+[![Eltomas809](https://github.com/jdiaz1423.png?size=100)](https://github.com/jdiaz1423)
+[![Rayniery](https://github.com/GGeasy75.png?size=100)](https://github.com/GGeasy75)
+[![Enmanuel](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21)
+
